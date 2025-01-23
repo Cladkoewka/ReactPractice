@@ -1,6 +1,5 @@
 import { useState } from "react"
 import "./App.css"
-import RandomNumber from "./components/RandomNumber"
 import Counter from "./components/Counter"
 import Button from "./components/Button"
 
