@@ -1,0 +1,13 @@
+.button {
+  margin-left: 20px;
+  height: 50px;
+  cursor: pointer;
+  color: aqua;
+  background-color: white;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.button:hover {
+  background-color: rgb(246, 246, 246);
+}

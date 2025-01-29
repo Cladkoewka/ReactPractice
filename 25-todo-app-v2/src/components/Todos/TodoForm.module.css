@@ -1,0 +1,38 @@
+.todoFormContainer {
+  margin-bottom: 30px;
+}
+
+.todoFormContainer form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.todoFormContainer input {
+  width: 45%;
+  height: 50px;
+  font-size: 1.3rem;
+  background-color: white;
+  color: aqua;
+}
+
+.todoFormContainer button {
+  margin-left: 20px;
+  height: 50px;
+  cursor: pointer;
+  color: aqua;
+  background-color: white;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.todoFormContainer button:hover {
+  background-color: rgb(246, 246, 246);
+}
+
+.todoFormContainer input,
+button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+}
